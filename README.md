@@ -1,5 +1,17 @@
-### Hi there 👋
+# Hi there, i'm Przebor 👋
+Sometimes known as przebot. I'm a student from Poland interested in programming, cybersecurity and chemistry.
+🔭 Currently working on [DonutBot](https://discord.com/oauth2/authorize?client_id=738788356506386462&permissions=8&scope=bot)
 
+# List of programming languages
+### Fluent
+🐍 Python
+### Learning
+   C#
+   Java
+   C++
+### Barely touched
+   JavaScript
+   Rust
 <!--
 **przebor/przebor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
