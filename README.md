@@ -1,5 +1,5 @@
 # Hi there, i'm Przebor 👋
-Sometimes known as przebot. I'm a student from Poland interested in programming, cybersecurity and chemistry.
+Sometimes known as przebot. I'm a student from Poland interested in programming, cybersecurity and chemistry.</br>
 🔭 Currently working on [DonutBot](https://discord.com/oauth2/authorize?client_id=738788356506386462&permissions=8&scope=bot)
 
 # List of programming languages
