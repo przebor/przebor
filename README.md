@@ -6,12 +6,12 @@ Sometimes known as przebot. I'm a student from Poland interested in programming,
 ### Fluent
 🐍 Python
 ### Learning
-   C#
-   Java
-   C++
+   C#</br>
+   Java</br>
+   C++</br>
 ### Barely touched
-   JavaScript
-   Rust
+   JavaScript</br>
+   Rust</br>
 <!--
 **przebor/przebor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
