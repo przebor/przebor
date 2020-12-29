@@ -1,15 +1,15 @@
 # Hi there, i'm Przebor 👋
 Sometimes known as przebot. I'm a student from Poland interested in programming, cybersecurity and chemistry.</br>
-🔭 Currently working on [DonutBot](https://discord.com/oauth2/authorize?client_id=738788356506386462&permissions=8&scope=bot)
+🔭 Currently working on [CrowdedMod](https://github.com/CrowdedMods/CrowdedMod)
 
 # List of programming languages
 ### Fluent
 🐍 Python
 ### Learning
    C#</br>
-   Java</br>
    C++</br>
 ### Barely touched
+   Java</br>
    JavaScript</br>
    Rust</br>
 <!--
