@@ -2,6 +2,8 @@
 Sometimes known as przebot. I'm a student from Poland interested in programming, cybersecurity and chemistry.</br>
 🔭 Currently working on [CrowdedMod](https://github.com/CrowdedMods/CrowdedMod)
 
+[![Przebor's github stats](https://github-readme-stats.vercel.app/api?username=przebor&show_icons=true&theme=merko)](https://github.com/przebor)
+
 # List of programming languages
 ### Fluent
 🐍 Python
