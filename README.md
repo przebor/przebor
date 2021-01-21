@@ -1,19 +1,20 @@
 # Hi there, i'm Przebor 👋
 Sometimes known as przebot. I'm a student from Poland interested in programming, cybersecurity and chemistry.</br>
-🔭 Currently working on [CrowdedMod](https://github.com/CrowdedMods/CrowdedMod)
+🔭 Currently working on Among Us mods and other cool stuff.</br>
+Part of [CrowdedMods Team](https://github.com/CrowdedMods)
 
 [![Przebor's github stats](https://github-readme-stats.vercel.app/api?username=przebor&show_icons=true&theme=merko&include_all_commits=true&hide_border=true)](https://github.com/przebor)
 
-# List of programming languages
-### Fluent
-🐍 Python
-### Learning
+# Langs
+### Pretty Fluent
+🐍 Python</br>
    C#</br>
+### Learning
+   Rust</br>
    C++</br>
 ### Barely touched
    Java</br>
    JavaScript</br>
-   Rust</br>
 <!--
 **przebor/przebor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
