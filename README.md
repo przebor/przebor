@@ -1,8 +1,7 @@
 # Hi there, i'm Przebor 👋
 Sometimes known as przebot. I'm a student from Poland interested in programming, cybersecurity and chemistry.</br>
 🔭 Currently working on Among Us mods and learning modern JavaScript frameworks</br>
-Co-Founder of [CrowdedMods](https://github.com/CrowdedMods)</br>
-Maintainer of [CustomServersClient](https://github.com/CrowdedMods/CustomServersClient)
+Co-owner of [CrowdedMods](https://github.com/CrowdedMods)</br>
 
 [![Przebor's github stats](https://github-readme-stats.vercel.app/api?username=przebor&show_icons=true&theme=merko&include_all_commits=true&hide_border=true)](https://github.com/przebor)
 
@@ -11,7 +10,7 @@ Maintainer of [CustomServersClient](https://github.com/CrowdedMods/CustomServers
 🐍 Python</br>
    C#</br>
 ### Learning
-   JavaScript</br>
+   JavaScript/TypeScript</br>
    C++</br>
 ### Barely touched
    Java</br>
