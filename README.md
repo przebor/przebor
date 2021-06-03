@@ -1,5 +1,5 @@
 # Hi there, i'm Przebor 👋
-Sometimes known as przebot. I'm a student from Poland interested in programming, cybersecurity and chemistry.</br>
+Sometimes known as [przebot](https://github.com/przebot). I'm a student from Poland interested in programming, cybersecurity and chemistry.</br>
 🔭 Currently working on Among Us mods and learning modern JavaScript frameworks</br>
 Co-owner of [CrowdedMods](https://github.com/CrowdedMods)</br>
 
