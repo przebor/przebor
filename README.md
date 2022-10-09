@@ -1,6 +1,6 @@
 # Hi there, i'm Przebor 👋
 Sometimes known as [przebot](https://github.com/przebot). I'm a student from Poland interested in programming, cybersecurity and chemistry.</br>
-🔭 Currently working on NLP models, indie games (Bevy, Unity) and various GUI applications/web apps (Spot).</br>
+🔭 Currently working on ~~not failing highschool and~~ some random projects.</br>
 Co-Owner of [CrowdedMods](https://github.com/CrowdedMods)</br>
 Ex-Developer in [PolusGG](https://polus.gg)</br>
 
