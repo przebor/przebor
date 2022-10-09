@@ -1,6 +1,6 @@
-# Hi there, i'm Przebor 👋
+# Hi there, i'm Jan 👋
 Sometimes known as [przebot](https://github.com/przebot). I'm a student from Poland interested in programming, cybersecurity and chemistry.</br>
-🔭 Currently working on ~~not failing highschool and~~ some random projects.</br>
+🔭 Currently working on ~~not failing highschool and~~ some random projects.</br></br>
 Doing games at [my itch.io](https://przebot.itch.io)</br>
 Co-Owner of [CrowdedMods](https://github.com/CrowdedMods)</br>
 Developer in [PolusGG](https://polus.gg) (project permanently shut down)</br>
