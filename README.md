@@ -2,7 +2,7 @@
 Sometimes known as [przebot](https://github.com/przebot). I'm a student from Poland interested in programming, cybersecurity and anothing computer/maths/physics related.</br>
 🔭 Currently working on ~~not failing highschool and~~ some random projects.</br></br>
 Doing games at [my itch.io](https://przebot.itch.io)</br>
-Co-Creating [DonutBot](https://github.com/JustDonutTeam/DonutBot)
+Co-Creating [DonutBot](https://github.com/JustDonutTeam/DonutBot)</br>
 Co-Owner of [CrowdedMods](https://github.com/CrowdedMods)</br>
 Developer in [PolusGG](https://polus.gg) (project permanently shut down)</br>
 
